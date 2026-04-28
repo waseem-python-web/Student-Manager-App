@@ -1,7 +1,7 @@
 Student = {}
 
 while True:
-    print("===== Student Manager App =====")
+    print("===== Student Manager App Waseem =====")
     print("1. Add name")
     print("2. View students")
     print("3. Check result")
@@ -43,4 +43,4 @@ while True:
         break
 
     else:
-        print("Invalid choice")
+        print("Invalid  your choice")
